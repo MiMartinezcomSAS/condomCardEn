@@ -1,0 +1,13 @@
+diff a/wp-content/themes/oxygen/assets/css/oxygen.css b/wp-content/themes/oxygen/assets/css/oxygen.css	(rejected hunks)
+@@ -25510,9 +25510,8 @@
+ 
+ }
+ @media (max-width: 769px) {
+-
+-    .subscribe-sidebar{
+-        display:none
++	.subscribe-sidebar{
++    	display:none
+     }
+ 	.menu-item-has-children:before{
+ 		display: none;
