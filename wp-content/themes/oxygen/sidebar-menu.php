@@ -13,8 +13,8 @@
 			<div class="sidebar-inner">
 
 			    <div class="lang">
-        <a href="#">Español</a>
-        <a href="#">Ingles</a>
+        <a href="http://www.condomcard.com/">Spanish</a>
+        <a href="http://es.condomcard.com/">English</a>
    				 </div>
 			
 				<?php get_template_part('tpls/logo'); ?>
@@ -37,7 +37,7 @@
 
 
         <div class="inline"><a href="<?php echo WC()->cart->get_cart_url(); ?>">
-            <h4>Carro de compras</h4>
+            <h4>Cart</h4>
             <div class="cart-sub-total">
    			<?php _e('Subtotal', TD); ?>: 
    			<span><?php echo WC()->cart->get_cart_subtotal(); ?></span>
@@ -48,7 +48,7 @@
 
     <hr/>
                 <div id="subscribe-sidebar" class="subscribe-sidebar">
-                    Suscribete
+                    Subscribe
                 </div>
 			</div><!-- /sidebar-inner -->
 			
@@ -71,7 +71,7 @@
 
                 <p> Todos los derechos reservados </p>
                 <hr/>
-                <p>Diseño y desarrollo web: <a href="http://mi-martinez.com" target="_blank" alt="Agencia de publicidad en Bogotá" > <span
+                <p>Web design and development: <a href="http://mi-martinez.com" target="_blank" alt="Agencia de publicidad en Bogotá" > <span
                             class="icons-fuentelogo"></span></a></p>
             </div>
 
