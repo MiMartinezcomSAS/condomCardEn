@@ -83,7 +83,7 @@ $cart = array_reverse(WC()->cart->get_cart());
 							<span class="price"><?php echo apply_filters( 'woocommerce_cart_item_price', WC()->cart->get_product_price( $_product ), $cart_item, $cart_item_key ); ?></span>
 							<?php endif; ?>
 							
-							<span class="quantity"><?php _e( sprintf("Cantidad: %d", $quantity) ); ?></span>
+							<span class="quantity"><?php _e( sprintf("Quantity: %d", $quantity) ); ?></span>
 						</div>
 					</div>
 				</div>
@@ -99,12 +99,12 @@ $cart = array_reverse(WC()->cart->get_cart());
 	<div class="col-md-2 col-sm-3">
 				
     	<a class="btn btn-block btn-gray" href="<?php echo CARTURL; ?>">
-    		<?php _e('Carro de compras', TD); ?> 
+    		<?php _e('Cart', TD); ?> 
     		<span class="glyphicon bucket-icon"></span>
     	</a>
     	
    		<a class="btn btn-block btn-default" href="<?php echo CHECKOUTURL; ?>">
-   			<?php _e('Finalizar compra', TD); ?> 
+   			<?php _e('Checkout', TD); ?> 
    			<span class="glyphicon cart-icon"></span>
    		</a>
    		

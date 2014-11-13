@@ -206,7 +206,7 @@ function dimox_breadcrumbs($echo = true, $force_use = false)
 	#	return;
 
 	/* === OPTIONS === */
-	$text['home']		 = 'Inicio';
+	$text['home']		 = 'Home';
 	$text['category'] = 'Category: "%s"';
 	$text['search']	 = 'Search Results for "%s" Query';
 	$text['tag']			= 'Tag: "%s"';

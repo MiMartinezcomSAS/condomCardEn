@@ -40,8 +40,8 @@
     <div class="close-contend"></div>
     <span class="nav-close">X</span>
     <div class="contend-pop-up">
-        <h2>Suscribete ahora</h2>
-        <p>Ingrese sus datos para recibir mas información acerca de nuestros productos, o registrese para acceder a la tienda UNIQUE. </p>
+        <h2>Join Now</h2>
+        <p>Enter your information to receive more information about our products, or sign up for access to UNIQUE store. </p>
         <form method="post" class="register">
 
             <?php do_action( 'woocommerce_register_form_start' ); ?>
