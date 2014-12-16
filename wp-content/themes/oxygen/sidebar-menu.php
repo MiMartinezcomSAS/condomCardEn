@@ -69,7 +69,7 @@
                 </nav>
                 <p class="first"> ©Unique Condoms - 2014 </p>
 
-                <p> Todos los derechos reservados </p>
+                <p> All rights reserved </p>
                 <hr/>
                 <p>Web design and development: <a href="http://mi-martinez.com" target="_blank" alt="Agencia de publicidad en Bogotá" > <span
                             class="icons-fuentelogo"></span></a></p>
