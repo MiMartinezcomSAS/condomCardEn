@@ -91,10 +91,10 @@ if (post_password_required()) {
 
                 </div>
                 <ul id="tags-products">
-                    <li class="selected-tags" data-item="0">Descripción</li>
-                    <li data-item="1">Ventajas</li>
+                    <li class="selected-tags" data-item="0">Description</li>
+                    <li data-item="1">Advantage´s</li>
                     <li data-item="2">Video</li>
-                    <li data-item="3">Instrucciones</li>
+                    <li data-item="3">Instructions</li>
                 </ul>
 
                 <ul id="tags-products-contends">
